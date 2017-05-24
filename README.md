@@ -1,0 +1,2 @@
+# NewTestAlgo
+проект AlgoTrader
